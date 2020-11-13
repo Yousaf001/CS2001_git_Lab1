@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1919170 | The Mask of Zorro | 1998
+1919170 | The Notebook | 2004
+1919170 | Forest Gump | 1994
+1919170 | Titanic | 1997
+1919170 | Gladiator | 2000
