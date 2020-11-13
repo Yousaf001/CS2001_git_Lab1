@@ -521,4 +521,4 @@ Student ID | Movie | Year of Release
 1919170 | The Notebook | 2004
 1919170 | Forest Gump | 1994
 1919170 | Titanic | 1997
-1919170 | Gladiator | 2000
+1919170 | Avatar | 2009
