@@ -517,3 +517,4 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+SCD001	| Arrival | 2009
